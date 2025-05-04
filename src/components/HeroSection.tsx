@@ -22,7 +22,7 @@ const HeroSection = () => {
   return (
     <section className="min-h-screen flex flex-col pt-20 justify-start bg-[#0f0c2f] text-white px-4 text-center">
       <div className="relative">
-        <div className="absolute top-[-12px] left-[125px] -translate-x-1/2 md:left-auto md:right-10 md:translate-x-0">
+        <div className="absolute top-[-12px] left-[160px] -translate-x-1/2 md:left-auto md:right-10 md:translate-x-0">
           <div>
             <StatusBar />
           </div>
